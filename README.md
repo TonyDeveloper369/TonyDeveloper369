@@ -2,7 +2,7 @@
 Desenvolvedor backend com foco em engenharia de software, arquitetura de sistemas e cibersegurança. Mais do que replicar estruturas prontas, busco entender como os sistemas funcionam de verdade — da lógica bruta à eficiência do código.
 
 🚀 Habilidades Técnicas
-Linguagens & Ecossistema: Java | Python
+Linguagens & Ecossistema: Java | Pythonn
 
 Persistência de Dados: JDBC | MySQL
 
